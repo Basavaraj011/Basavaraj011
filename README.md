@@ -23,9 +23,4 @@
 
 ---
 
-### 📊 GitHub Stats
-![Basavaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basavaraj011&show_icons=true&theme=radical)
-
----
-
 📫 **Reach me at:** basums011@gmail.com | https://www.linkedin.com/in/basavarajms | +91-8618515571
