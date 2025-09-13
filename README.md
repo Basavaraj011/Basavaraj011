@@ -1,4 +1,31 @@
-- 👋 Hi, I’m Basavaraj
+# Hi, I'm Basavaraj 👋
 
-- 🌱 I work as Data Analyst at SaksOff5th.
+🚀 Data Engineer | 3+ years experience | Building scalable & real-time data pipelines | Data Warehousing with Snowflake + dbt
 
+---
+
+### 🔧 Skills & Tools
+- **Data Engineering**: Kafka, Kafka Connect, Airflow, dbt, Snowflake, S3
+- **Databases**: PostgreSQL, MySQL, Oracle
+- **Cloud & DevOps**: AWS, Docker
+- **Workflow Orchestration**: Airflow (DAGs)
+- **Other**: SQL optimization, ELT pipelines, Data Modeling
+
+---
+
+### 📌 Featured Projects
+- **Weather API → PostgreSQL → Kafka → MySQL (Real-time Pipeline)**  
+  Designed a streaming pipeline using Dockerized Kafka Connect, PostgreSQL (source), and MySQL (sink).  
+  Orchestrated workflows with Airflow.
+
+- **Snowflake + dbt Transformations**  
+  Built incremental models, views, and complex transformations using dbt + Snowflake.
+
+---
+
+### 📊 GitHub Stats
+![Basavaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basavaraj011&show_icons=true&theme=radical)
+
+---
+
+📫 **Reach me at:** [your email] | [LinkedIn profile link]
