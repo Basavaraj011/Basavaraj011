@@ -28,4 +28,4 @@
 
 ---
 
-📫 **Reach me at:** [your email] | [LinkedIn profile link]
+📫 **Reach me at:** basums011@gmail.com | https://www.linkedin.com/in/basavarajms | +91-8618515571
